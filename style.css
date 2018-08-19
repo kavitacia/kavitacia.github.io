@@ -1,0 +1,12 @@
+body {
+	background-color: green;
+}
+
+header {
+	background-image: url(img/head_low_bg.jpg);
+	min-height: 1181px;
+}
+
+.container {
+	outline: 1px yellow solid;
+}
